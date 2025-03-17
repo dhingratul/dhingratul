@@ -1,16 +1,21 @@
-## Hi there 👋
+## AI Engineering Leader | Generative AI & Computer Vision | Edge Systems
 
-<!--
-**dhingratul/dhingratul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build cutting-edge AI systems at the intersection of vision, language, and autonomy that scale to production.
 
-Here are some ideas to get you started:
+### 🚀 Experience
+- **Staff ML Engineer @ PayPal** - Leading Generative AI adoption and LLM lifecycle management
+- **Engineering Manager @ Standard AI** - Scaled autonomous checkout from 2 to 40+ stores
+- **Perception Engineer @ NIO** - Designed edge compute systems for L4 autonomous vehicles
+- **ML Engineer @ Otsuka Digital Health** - Enhanced medical claims prediction using Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Expertise
+- Generative AI & LLM systems
+- Computer Vision & Perception
+- Edge AI optimization
+- Autonomous systems development
+- Healthcare analytics
+
+### 🔗 Connect
+- [Website](https://www.dhingratul.com)
+- [LinkedIn](https://linkedin.com/in/dhingratul)
+- [Google Scholar](https://scholar.google.co.in/citations?user=btYSrEcAAAAJ&hl)
